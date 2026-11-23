@@ -9,6 +9,7 @@ This is a simple rule-based chatbot developed using Python.
 - Responds to basic messages.
 - Handles unknown messages.
 - Exits when the user types bye.
+- 
 
 ## Technologies Used
 - Python
